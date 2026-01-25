@@ -35,7 +35,7 @@ This project focuses on clean architecture, security, database migrations, and r
 • Detailed diagrams are available in the _/docs_ folder.  
 
 🗂 **Project Structure**  
-<img width="362" height="497" alt="image" src="https://github.com/user-attachments/assets/c038e46b-47bd-4acf-adc8-bfb2fe0389dd" />  
+<img width="335" height="494" alt="image" src="https://github.com/user-attachments/assets/0825538b-29f4-414c-aab9-eca71a283fd7" />
 
 🔐 **Authentication & Authorization**  
 • JWT-based authentication  
