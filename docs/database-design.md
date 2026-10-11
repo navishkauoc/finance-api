@@ -1,0 +1,1 @@
+1. For local development, Docker Compose is used to run the database.
