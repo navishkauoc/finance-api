@@ -20,11 +20,10 @@
    &emsp;&emsp;b).On the General tab, enter a name, ex: finance-api (Docker)\
    &emsp;&emsp;c).On the Connection tab:\
    &emsp;&emsp;d).Host: postgres\
-   &emsp;&emsp;e).Host: localhost
-   &emsp;&emsp;f).Port: 5432\
-   &emsp;&emsp;g).Maintenance database: finance_db\
-   &emsp;&emsp;h).Username / Password: the values from the .env\
-   &emsp;&emsp;i).Save
+   &emsp;&emsp;e).Port: 5432\
+   &emsp;&emsp;f).Maintenance database: finance_db\
+   &emsp;&emsp;g).Username / Password: the values from the .env\
+   &emsp;&emsp;h).Save
 
 **Running the Spring Boot application**
 1. _./mvnw spring-boot:run_
